@@ -1,5 +1,6 @@
 {
-  "users": [{
+  "users": [
+    {
       "id": "1",
       "name": "Dilan",
       "email": "d@gmail.com",
@@ -10,6 +11,21 @@
       "name": "Lakshan",
       "email": "l@gmail.com",
       "password": 123
+    },
+    {
+      "id": "c912",
+      "name": "Dila",
+      "password": "123",
+      "email": "d@gmail.com"
+    }
+  ],
+  "resturant":[
+    {
+      "id":1,
+      "name":"Burger",
+      "contact":11111,
+      "address":"London/uk"
+
     }
   ]
 }
